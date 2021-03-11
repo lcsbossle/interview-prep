@@ -7,4 +7,6 @@ Each folder contains the solutions do the problems of each subject.
 
 I'm most familiar with Python, but I will attempt to solve some of the challenges in Elixir.
 
+Each file contains the code in the specific format that will work on HackerRank platform if pasted directly.
+
 I hope you will find this useful, and I'm open to suggestions and discussions.
